@@ -24,7 +24,7 @@ Full stack Amazon‑style storefront deployed through a fully automated CI/CD pi
 - Easy to extend with CloudFront and a custom domain for production.
 
 ## Screenshots
-<img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/8045eb00-b462-46af-9597-803c0bc3eb4c" />
-<img width="1366" height="681" alt="image" src="https://github.com/user-attachments/assets/1e51994c-e5e7-415b-90f9-59e0f769cd46" />
+[CI/CD Pipeline]<img width="1366" height="643" alt="image" src="https://github.com/user-attachments/assets/8045eb00-b462-46af-9597-803c0bc3eb4c" />
+[Amazon Clone Homepage]<img width="1366" height="681" alt="image" src="https://github.com/user-attachments/assets/1e51994c-e5e7-415b-90f9-59e0f769cd46" />
 
 
