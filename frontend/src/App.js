@@ -8,7 +8,7 @@ function App() {
         <h1>Amazon Clone</h1>
       </header>
       <main>
-        <p>Welcome, Mohammad Yunus! Your Amazon-like store UI will appear here.</p>
+        <p>Welcome, Yunus! Your Amazon-like store UI will appear here.</p>
       </main>
     </div>
   );
